@@ -15,4 +15,3 @@ def countdown_with_sleep (speed)
   end
   return "HAPPY NEW YEAR!"
 end
-  end
